@@ -1,0 +1,17 @@
+Lane,Band No.,Band-Lane,Condition,pH,Salt,Urea,Protein,Protein Mol. Wt. (KDa),Abs. Quant. (ug),Rel. Quant.,Band %,Lane %
+3,5,3-5,Test condition,6.0,0.1,0.0,Enz,14.6,,0.5,12.4,7.2
+4,5,4-5,Test condition,6.0,0.1,0.5,Enz,14.6,,0.4,9.1,5.1
+5,5,5-5,Test condition,6.0,0.1,1.0,Enz,14.7,,0.3,8.2,4.7
+6,5,6-5,Test condition,6.0,0.35,0.5,Enz,14.8,,0.4,9.7,5.5
+8,5,8-5,Test condition,6.8,0.05,0.0,Enz,15.0,,0.6,12.2,6.5
+9,5,9-5,Test condition,6.8,0.05,0.5,Enz,14.9,,0.5,10.8,5.9
+10,5,10-5,Test condition,6.8,0.1,1.0,Enz,15.0,,0.4,9.7,5.4
+11,5,11-5,Test condition,6.8,0.35,0.5,Enz,15.1,,0.5,11.0,6.0
+13,5,13-5,Test condition,7.4,0.05,0.0,Enz,14.9,,0.3,9.4,4.8
+14,5,14-5,Test condition,7.4,0.05,0.5,Enz,15.0,,0.5,10.8,6.3
+15,5,15-5,Test condition,7.4,0.1,1.0,Enz,15.0,,0.5,9.6,5.7
+16,5,16-5,Test condition,7.4,0.35,0.5,Enz,15.0,,0.6,11.4,6.0
+18,5,18-5,Test condition,8.0,0.05,0.0,Enz,15.0,,0.3,9.4,5.3
+19,5,19-5,Test condition,8.0,0.05,0.5,Enz,15.0,,0.4,9.6,5.4
+20,5,20-5,Test condition,8.0,0.1,1.0,Enz,15.2,,0.3,8.4,4.8
+21,5,21-5,Test condition,8.0,0.35,0.5,Enz,15.5,,0.7,12.1,7.1
