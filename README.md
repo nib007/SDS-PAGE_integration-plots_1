@@ -1,4 +1,3 @@
-![SDS-PAGE Visualization](./images/gel.jpg)  <!-- Replace with your image filename and adjust the path if needed -->
 
 This repository contains Python scripts and data analysis for generating SDS-PAGE integration plots. The project focuses on:
 - Data loading and cleaning
@@ -26,4 +25,5 @@ Details note: In this repository are a python code (.py file) where you paste in
 
 Summary: Python code where you paste in Band %, Lane % of a protein detected, plots of the combined effect as the three variable
 
-<img width="696" height="524" alt="image" src="https://github.com/user-attachments/assets/34262fac-7012-4b32-bbce-42be91bcb831" />
+![SDS-PAGE Visualization](./images/gel.jpg)  <!-- Replace with your image filename and adjust the path if needed -->
+
